@@ -1,0 +1,8 @@
+Starting sbatch script myscript.sh at:Tue Nov 23 19:17:18 EST 2021
+  running host:    node329
+  assigned nodes:  node329
+  partition used:  bluemoon
+  jobid:           6795384
+sampling
+sampling done
+done
