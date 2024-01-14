@@ -6,7 +6,7 @@ This repository contains the code for the experiments in the following paper:
 [Atoosa Parsa, Dong Wang, Corey S. O’Hern, Mark D. Shattuck, Rebecca Kramer-Bottiglio, and Josh Bongard. (2022, July). Evolving programmable computational metamaterials. In Proceedings of the Genetic and Evolutionary Computation Conference (pp. 122-129).](https://dl.acm.org/doi/abs/10.1145/3512290.3528861)
 
 <p align="center">
-  <img src="hhttps://github.com/AtoosaParsa/gecco-2022/blob/main/outline.png"  width="700">
+  <img src="https://github.com/AtoosaParsa/gecco-2022/blob/main/outline.png"  width="700">
 </p>
 
 </br>
